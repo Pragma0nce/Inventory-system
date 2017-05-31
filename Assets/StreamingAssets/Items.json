@@ -1,0 +1,31 @@
+[
+    {
+        "id": 0,
+        "title": "Steel Gloves",
+        "value": 6,
+        "stats": {
+            "power": 1,
+            "defence": 4,
+            "vitality": 2
+        },
+        "description": "Gloves made from steel",
+        "stackable": true,
+        "rarity": 2,
+        "slug": "steel_gloves"
+    }
+    ,
+    {
+        "id": 1,
+        "title": "The great stick",
+        "value": 500,
+        "stats": {
+            "power": 10,
+            "defence": 42,
+            "vitality": 22
+        },
+        "description": "Stick made from steel",
+        "stackable": false,
+        "rarity": 6,
+        "slug": "the_great_stick"
+    }
+]
